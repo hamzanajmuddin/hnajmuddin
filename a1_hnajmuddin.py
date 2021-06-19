@@ -5,7 +5,7 @@
     Please personlize the following author declaration:
 -----------------------------------------------------------------------
 OPS435 Assignment 1 - Winter 2021
-Program: a1_hnajmuddin.py (replace [Seneca_name] with your Seneca User name)
+Program: a1_hnajmuddin.py 
 Author: "Hamza Najmuddin"
 The python code in this file (a1_hnajmuddin.py) is original work written by
 "Hamza Najmuddin". No code in this file is copied from any other source 
